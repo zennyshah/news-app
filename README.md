@@ -1,7 +1,9 @@
 
 Step 1: Clone the repository  
 Step 2: At the root level, create a .env file and provide an API key value by pasting this code in it
+
 VITE_NEWS_API_KEY = ccbf33fce44b4e748b0066127bb999ec
+
 Step 3: Install dependencies with npm install  
 Step 4: Run npm run dev to start the application in development mode 
 
